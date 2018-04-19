@@ -1,6 +1,8 @@
 {
-    "Phi-X":"http://d396qusza40orc.cloudfront.net/ads1/data/phix.fa",
-    "lambdaVirus":"https://d28rh4a8wq0iu5.cloudfront.net/ads1/data/lambda_virus.fa",
-    "humanDNA":"https://d28rh4a8wq0iu5.cloudfront.net/ads1/data/ERR037900_1.first1000.fastq",
-    "humanDNA1": "http://d28rh4a8wq0iu5.cloudfront.net/ads1/data/chr1.GRCh38.excerpt.fasta"
+    "Phi-X"      : "http://d396qusza40orc.cloudfront.net/ads1/data/phix.fa",
+    "lambdaVirus": "https://d28rh4a8wq0iu5.cloudfront.net/ads1/data/lambda_virus.fa",
+    "humanDNA"   : "https://d28rh4a8wq0iu5.cloudfront.net/ads1/data/ERR037900_1.first1000.fastq",
+    "humanDNA1"  : "http://d28rh4a8wq0iu5.cloudfront.net/ads1/data/chr1.GRCh38.excerpt.fasta",
+    "humanDNA2"  : "https://d28rh4a8wq0iu5.cloudfront.net/ads1/data/chr1.GRCh38.excerpt.fasta",
+    "Phi-Z-1"    : "https://d28rh4a8wq0iu5.cloudfront.net/ads1/data/ERR266411_1.for_asm.fastq"
 }
