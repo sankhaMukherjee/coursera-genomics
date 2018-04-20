@@ -71,6 +71,8 @@ def boyer_moore(p, p_bm, t):
     return occurrences
 
 def main():
+
+    
     
     p = 'CCC'
     tenAs = 'A'*10
